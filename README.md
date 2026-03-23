@@ -1,2 +1,2 @@
-# Future
-É um sistema academico
+# Atividades de Programação
+Atividades do semestre
