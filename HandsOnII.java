@@ -116,7 +116,7 @@ public class HandsOnII {
             System.out.println("(e) C++");
             System.out.print("Escolha uma alternativa (tentativa " + tentativa + " de 3): ");
             
-            resposta = sc.nextLine().toLowerCase(); // Lê e converte para minúscula
+            resposta = sc.nextLine().toLowerCase(); 
             
             switch (resposta) {
                 case "c":
